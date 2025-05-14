@@ -1,0 +1,6 @@
+fastapi
+uvicorn
+selenium
+pandas
+openpyxl
+webdriver-manager
